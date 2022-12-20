@@ -9,10 +9,10 @@ We run the following code on Python3.7 or above with the packages listed below. 
 pip install networkx torch pickle tensorflow
 ## How to use MPI-VGAE
 Here we list the process of computational pipeline to predict genome-scale enzymatic reaction via metabolite-protein interaction prediction. There are there jupyter notebooks in the notebook folder. 
-The features of MPI network for each organism is deposited in folder “features”. 
-The code for VGAE code is deposited in folder “vgae”. 
-For prediction of metabolite-protein interaction, simply run mpi_vgae_run.ipynb, and follow the instructions on the jupyter notebook. 
-For prediction of metabolite-protein interaction by GraphSAGE model, simply run mpi_vgae_graphsage.ipynb, and follow the instructions on the jupyter notebook. 
+The features of MPI network for each organism is deposited in folder “features”. <br>
+The code for VGAE code is deposited in folder “vgae”.<br>
+For prediction of metabolite-protein interaction, simply run mpi_vgae_run.ipynb, and follow the instructions on the jupyter notebook.<br>
+For prediction of metabolite-protein interaction by GraphSAGE model, simply run mpi_vgae_graphsage.ipynb, and follow the instructions on the jupyter notebook.<br>
 For prediction of metabolite-metabolite interaction, simply run mpi_vgae_kegg.ipynb, and follow the instructions on the jupyter notebook. 
 
 ## Contribution
