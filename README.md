@@ -1,5 +1,5 @@
 # Genome-scale enzymatic reaction prediction by variational graph autoencoders
-![workflow](https://github.com/mmetalab/mpi-vgae/blob/master/figures/workflow.png)
+![workflow](https://github.com/mmetalab/mpi-vgae/blob/master/figures/framework.png)
 ## Background
 Enzymatic reaction networks are crucial to explore the mechanistic function of metabolites and proteins in biological systems and understanding the etiology of diseases and potential target for drug discovery. The increasing number of metabolic reactions allows the devel-opment of deep learning-based methods to discover new enzymatic reactions, which will expand the landscape of existing enzymatic reaction networks to investigate the disrupted metabolisms in diseases. 
 ## Results
