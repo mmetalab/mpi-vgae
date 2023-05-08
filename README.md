@@ -5,6 +5,8 @@ Enzymatic reactions are crucial to explore the mechanistic function of metabolit
 ## Requirements
 We run the following code on Python3.7 or above with the packages listed below. <br>
 pip install networkx torch pickle tensorflow
+## Source code for web application is here
+https://github.com/mmetalab/mpi-vgae-web
 ## How to use MPI-VGAE
 Here we list the process of computational pipeline to predict genome-scale enzymatic reaction via metabolite-protein interaction prediction. There are there jupyter notebooks in the notebook folder. 
 The features of MPI network for each organism is deposited in folder “features”. <br>
